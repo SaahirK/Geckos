@@ -1,7 +1,5 @@
-# Geckos
 <html>
     <body style="background-color:beige;">
-        <h1>An Informational Site about Geckos</h1>
         <figure>
          <img src="https://worldanimalfoundation.org/wp-content/uploads/2022/10/Common-Traits.jpg">
             <figcaption>The Gecko - A colorful, fascinating, and unique reptile.</figcaption>
