@@ -19,7 +19,7 @@
         <p>The eyes of a Gecko may look creepy to some, but they are quite useful to the Gecko. Since Geckos are nocturnal creatures, their eyes are well adapted to the dark. They are able to discriminate colors in moonlight where we would be pretty much blind. Their eyes         are about 350 times better at detecting and distinguishing between colors than we humans. What does this mean? Well, in the moonlight where we would be able to barely see, geckos would still be able to see a colorful world! Their eyes also don't have eyelids, so they have to lick them every once in a while to keep them clean and moist. Imagine having to do that. </p>
         <h3>Geckos are Masters of Camouflage</h3>
         <figure>
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mossy_leaf-tailed_gecko_%28Uroplatus_sikorae%29_Montagne_d%E2%80%99Ambre_2.jpg/800px-Mossy_leaf-tailed_gecko_%28Uroplatus_sikorae%29_Montagne_d%E2%80%99Ambre_2.jpg?20200813112822"
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Mossy_leaf-tailed_gecko_%28Uroplatus_sikorae%29_Montagne_d%E2%80%99Ambre_2.jpg/800px-Mossy_leaf-tailed_gecko_%28Uroplatus_sikorae%29_Montagne_d%E2%80%99Ambre_2.jpg?20200813112822">
         </figure>
             <p>Were you able to make out the Gecko in the image above? You might have, but a predator would not be able to. Geckos can blend into their environment without even looking around. They sense, rather than see their surroundings to blend in. Their skin contains light-sensitive proteins known as opsins which help them blend into their surroundings. </p>
             <h3>Geckos are Great Pets</h3>
