@@ -24,7 +24,7 @@
             <figure>
                 <img src="https://live.staticflickr.com/6043/6328387369_befb5aeef3_b.jpg">
             </figure>
-            <p>A gecko can be a great low-maintenance pet to have. They are a great beginner pet and are pretty cheap. They can even be left alone for a couple of days and be fine. Geckos like warm and stable temperatures and eat crickets, worms, grasshoppers, and many general insects. If you want to learn more about Geckos as pets check out <a href="https://shorturl.at/iBR89" target="_blank">this</a> website. You can also consider adopting a gecko <a href="https://www.adoptapet.com/s/gecko-adoption" target="_blank">here</a>. </p>
+            <p>A gecko can be a great low-maintenance pet to have. They are an appealing beginner pet and are pretty cheap. They can even be left alone for a couple of days and be fine. Geckos like warm and stable temperatures and eat crickets, worms, grasshoppers, and many general insects. If you want to learn more about Geckos as pets check out <a href="https://shorturl.at/iBR89" target="_blank">this</a> website. You can also consider adopting a gecko <a href="https://www.adoptapet.com/s/gecko-adoption" target="_blank">here</a>. </p>
     </body>
 
 
