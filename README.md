@@ -9,7 +9,7 @@
         <figure>
             <img src="https://c0.wallpaperflare.com/preview/846/635/818/gecko-reptile-lizard-green.jpg">
         </figure>
-         <p> Thanks to their clingy toe pads, Geckos are able to stick to any surface with the exception of Teflon. They are even able to walk on water using a mix of surface tension and surface slapping. Contrary to popular belief, geckos don't have sticky toes. They are able to scale things easily due to nanoscale hairs known as setae that line their toes. The 6.5 setae on a Gecko can generate enough force to support the weight of two humans!</p>
+         <p> Thanks to their clingy toe pads, Geckos are able to stick to any surface with the exception of Teflon. They are even able to walk on water using a mix of surface tension and surface slapping. Contrary to popular belief, geckos don't have sticky toes. They are able to scale things easily due to nanoscale hairs known as setae that line their toes. The <stong>6.5 million setae</stong> on a Gecko can generate enough force to support the weight of two humans!</p>
         <h3>Geckos' Eyes are 350 Times More Sensitive to Light!</h3>
         <figure>
             <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/PikiWiki_Israel_48009_lizard_eye.jpg">
