@@ -1,8 +1,8 @@
 <html>
     <body style="background-color:beige;">
         <figure>
+              <figcaption>The Gecko - A colorful, fascinating, and unique reptile.</figcaption>
          <img src="https://worldanimalfoundation.org/wp-content/uploads/2022/10/Common-Traits.jpg">
-            <figcaption>The Gecko - A colorful, fascinating, and unique reptile.</figcaption>
         </figure>
         <h2>Cool Facts about the Gecko</h2>
         <h3>A Gecko is able to Walk on any Surface, Even Water!</h3>
